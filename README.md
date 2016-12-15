@@ -55,4 +55,6 @@ Note also that some of the code in these notebooks will not work outside the
 directory structure of this tutorial, so it is important to clone the full
 repository if possible.
 
+*Palawat Supharerk*
 Fork and Clone to GitHub Desktop on Dec 15, 2016
+Run All Cells with Python 3.5.2 on Dec 14, 2016
