@@ -57,5 +57,5 @@ repository if possible.
 
 *Palawat Supharerk*
 
-- Fork and Clone to GitHub Desktop on Dec 15, 2016
-- Run All Cells with Python 3.5.2 on Dec 14, 2016
+- Forked and Cloned to GitHub Desktop on Dec 15, 2016
+- Run All Cells with Python 3.5.2 on Dec 15, 2016
