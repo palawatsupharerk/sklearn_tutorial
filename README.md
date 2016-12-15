@@ -54,3 +54,5 @@ For more information on the IPython notebook, see http://ipython.org/notebook.ht
 Note also that some of the code in these notebooks will not work outside the
 directory structure of this tutorial, so it is important to clone the full
 repository if possible.
+
+Fork and Clone to GitHub Desktop on Dec 15, 2016
